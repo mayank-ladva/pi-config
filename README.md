@@ -1,6 +1,6 @@
 # Personal Pi Agent Configuration
 
-This repository contains my Pi coding-agent configuration and the local Codex-to-Pi MCP bridge.
+This repository contains my personal Pi coding-agent configuration.
 
 ## Contents
 
@@ -8,9 +8,6 @@ This repository contains my Pi coding-agent configuration and the local Codex-to
 - `AGENTS.md` — workflow instructions for Pi
 - `extensions/` — Pi commands and safety hooks
 - `skills/` and `prompts/` — reusable guidance
-- `integrations/pi-rpc-bridge/` — local MCP server that lets Codex delegate work to Pi
-
-The bridge is an additional local integration. It does not replace the normal Pi workflow or change Pi's configuration when it selects a model for a delegated session.
 
 ## Use
 

@@ -27,3 +27,4 @@ packages/pi-sonarqube
 /integrations/pi-rpc-bridge/.state/
 /integrations/pi-rpc-bridge/backups/
 /integrations/pi-rpc-bridge/__pycache__/
+/integrations/pi-rpc-bridge/
