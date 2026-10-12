@@ -32,16 +32,12 @@
   "defaultProvider": "openai-codex",
   "defaultModel": "gpt-6-luna",
   "defaultThinkingLevel": "high",
-  "lastChangelogVersion": "1.1.0",
+  "lastChangelogVersion": "0.99.1",
   "enabledModels": [
-    "kilocode/cohere/north-mini-code:free",
-    "kilocode/inclusionai/ling-3.1-flash",
-    "kilocode/nvidia/nemotron-3-ultra-550b-a55b:free",
-    "kilocode/stealth/space-bunny-alpha",
-    "kilocode/qwen/qwen3.8-27b:free",
-    "kilocode/nvidia/nemotron-3.5-lightning:free",
     "kilocode/kilo-auto/free",
     "openai-codex/gpt-5.5",
+    "kilocode/deepseek/deepseek-v4-flash",
+    "deepseek/deepseek-v4-pro",
     "openai-codex/gpt-6-luna",
     "openai-codex/gpt-6.1-sol"
   ]
